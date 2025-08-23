@@ -1,5 +1,7 @@
 body {
-    background-color: #f4f4f4;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    background-color: #faf3e0; /* tom bege claro */
+    color: #2c3e50;
     margin: 20px;
 }
 h1 {
